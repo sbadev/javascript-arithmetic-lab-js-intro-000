@@ -26,4 +26,4 @@ function makeInt(n) {
   parsInt(n, 10)
 }
 
-makeInt(0x2328);
+makeInt(0x2328)
