@@ -24,5 +24,6 @@ function dec(n) {
 
 function makeInt(n) {
   parsInt(n, 10)
-  return n
 }
+
+makeInt(0x2328);
